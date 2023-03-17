@@ -1,3 +1,5 @@
+"""Napisz skrypt kalkulator, który pobierze od użytkownika 2 liczby a następnie po podaniu
+odpowiedniego operatora wykona adekwatną operację i wyświetli wynik"""
 num1 = float(input("Podaj pierwszą liczbę: "))
 num2 = float(input("Podaj drugą liczbę: "))
 operator = input("Wybierz operator (+, -, *, /, //, %, **): ")

@@ -1,6 +1,11 @@
+"""
+Utwórz skrypt, która pobierze od użytkownika odpowiedzi na pytania – ankieta z pytaniami jak w
+przykładzie (pytania 1-7) oraz pytaniem o imię i nazwisko:
+https://www.webankieta.pl/wzor-ankiety/ankieta-czytelnicza/
+"""
+
+
 print("Ankieta czytelnicza")
-
-
 p0="Jak masz na imię i nazwisko? "
 print(p0)
 answ0 = input()
